@@ -1,4 +1,4 @@
-module web
+module web_client_server_go
 
 go 1.19
 
